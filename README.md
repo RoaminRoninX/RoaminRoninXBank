@@ -10,3 +10,5 @@ Working progress. Simple Banking application written in Golang and Postgres
 
 <img width="1280" alt="Screenshot 2021-05-14 at 21 11 34" src="https://user-images.githubusercontent.com/64507625/118323856-237a3500-b4f9-11eb-822c-405d93e0b4f3.png">
 
+<img width="1280" alt="Screenshot 2021-05-14 at 21 10 45" src="https://user-images.githubusercontent.com/64507625/118323956-46a4e480-b4f9-11eb-8701-b4baa374522a.png">
+
